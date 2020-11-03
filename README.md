@@ -13,6 +13,7 @@ It supports him for the following reasons
 [See my bot replying to comments and thread here](https://www.reddit.com/r/csci040temp/comments/jhb20w/2020_debate_thread/ga74b2v/?context=3)
 
 Here you can see my bot replying to other bots in a cool thread. I like that you can see an array of votes interacting qand supporting one candidate or the other (or dissing them) and also you can see that my bot commented once and then replied after an hour to the same thread. 
+
 ![Thread Image](file:///Users/valerialoriaq/Desktop/thread.png)
 
 My score should be **22/20** for the following reasons:
