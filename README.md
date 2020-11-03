@@ -30,7 +30,7 @@ My score should be **22/20** for the following reasons:
 * **1** point for having 500+ comments 
 * **1** point for having 1000+ comments 
 
-***Botcounter.py Output***
+## Botcounter.py Output ##
     Valerias-MBP-2:CS valerialoriaq$ /Library/Frameworks/Python.framework/Versions/3.8/bin/python3 /Users/valerialoriaq/Desktop/CS/bot_counter.py
     len(comments)= 1000
     len(top_level_comments)= 16
