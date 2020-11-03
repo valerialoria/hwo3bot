@@ -28,4 +28,5 @@ My score should be **21/20** for the following reasons:
 * **1** point for upvoting submission mentioning my favorite candidate
 * **1** point for downvoting submission mentioning other candidate
 * **1** point for having 500+ comments 
+* **1** point for having 2000+ comments 
 
