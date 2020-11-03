@@ -28,5 +28,19 @@ My score should be **22/20** for the following reasons:
 * **1** point for upvoting submission mentioning my favorite candidate
 * **1** point for downvoting submission mentioning other candidate
 * **1** point for having 500+ comments 
-* **1** point for having 2000+ comments 
+* **1** point for having 1000+ comments 
+
+***Botcounter.py Output***
+    Valerias-MBP-2:CS valerialoriaq$ /Library/Frameworks/Python.framework/Versions/3.8/bin/python3 /Users/valerialoriaq/Desktop/CS/bot_counter.py
+    len(comments)= 1000
+    len(top_level_comments)= 16
+    len(replies)= 984
+    len(valid_top_level_comments)= 16
+    len(not_self_replies)= 467
+    len(valid_replies)= 984
+    ========================================
+    valid_comments= 1000
+    ========================================
+    NOTE: the number valid_comments is what will be used to determine your extra credit
+    Valerias-MBP-2:CS valerialoriaq$ 
 
