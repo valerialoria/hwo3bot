@@ -15,7 +15,7 @@ It supports him for the following reasons
 Here you can see my bot replying to other bots in a cool thread. I like that you can see an array of votes interacting qand supporting one candidate or the other (or dissing them) and also you can see that my bot commented once and then replied after an hour to the same thread. 
 ![Thread Image](file:///Users/valerialoriaq/Desktop/thread.png)
 
-My score should be **22/20** for the following reasons:
+My score should be **21/20** for the following reasons:
 
 * I should get **12** points because tasks 0-5 work (each is worth 2 points so 2 x 6 = 12)
 * I should get **2** other points because of this repo 
@@ -28,5 +28,4 @@ My score should be **22/20** for the following reasons:
 * **1** point for upvoting submission mentioning my favorite candidate
 * **1** point for downvoting submission mentioning other candidate
 * **1** point for having 500+ comments 
-* **1** point for having 2000+ comments 
 
